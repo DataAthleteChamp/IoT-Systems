@@ -1,5 +1,5 @@
 # IoT-Systems
-[01](/)
+
 [02](/02_MQTT/Zadanie_2_MQTT.pdf)
 [03](/03_Generators/Zadanie_3_generatory.pdf)
 [04](/04_Control/Zadanie_4_sterowanie.pdf)
